@@ -26,8 +26,5 @@ class Prank:
             web.open(link)
             print(i+1)
 
-Prank.Earthquake(markx,marky)
-Prank.Open('www.google.com')
-
 
 
