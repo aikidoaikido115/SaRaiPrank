@@ -16,7 +16,7 @@ pip install SaRaiPrank
 from SaRaiPrank.Shake import Prank
 
 Prank.Earthquake(132,698) #ค่าแกน x y ของหน้าจอ
-Prank.Open('www.google.com')
+Prank.Open('www.google.com') #ระวังเครื่องค้าง
 ```
 
 
