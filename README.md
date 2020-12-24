@@ -16,7 +16,7 @@ pip install SaRaiPrank
 from SaRaiPrank.Shake import Prank
 
 Prank.Earthquake(132,698) #ค่าแกน x y ของหน้าจอ run แล้วเมาส์จะสั่น
-Prank.Open('www.google.com') #ระวังเครื่องค้าง เปิด link คนเครื่องค้าง
+Prank.Open('www.google.com') #ระวังเครื่องค้าง เปิด link จนเครื่องค้าง
 ```
 
 
